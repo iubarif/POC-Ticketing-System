@@ -1,0 +1,54 @@
+﻿{
+  "ApplicationTitle": "Ticketing System",
+  "Admin": "arif.mosharraf@hssbc.ca",
+  "UpdateDate": "2016/10/25",
+
+  "Source": [
+    "Customer Portal",
+    "Email",
+    "Email with Attachments",
+    "Fax",
+    "Mail",
+    "Phone Call",
+    "Voicemail",
+    "Walk-In"
+  ],
+
+  "Priority": [
+    {
+      "Key": "High",
+      "Value": 1
+    },
+    {
+      "Key": "Medium",
+      "Value": 2
+    },
+    {
+      "Key": "Low",
+      "Value": 3
+    }
+  ],
+
+  "Status": [
+    {
+      "Key": "Open",
+      "Value": 1
+    },
+    {
+      "Key": "Assigned",
+      "Value": 2
+    },
+    {
+      "Key": "Re-Assigned",
+      "Value": 3
+    },
+    {
+      "Key": "Re-Opened",
+      "Value": 4
+    },
+    {
+      "Key": "Closed",
+      "Value": 5
+    }
+  ]
+}

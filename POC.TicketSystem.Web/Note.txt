@@ -1,0 +1,13 @@
+﻿> NuGet Package:
+1.	Entity Framework
+2.	Newtonsoft.Json
+
+>EF commands
+1.	enable-migrations
+2.	add-migration InitialCreate
+
+
+Resources:
+1.	https://www.asp.net/mvc/overview/getting-started/getting-started-with-ef-using-mvc/migrations-and-deployment-with-the-entity-framework-in-an-asp-net-mvc-application
+
+
